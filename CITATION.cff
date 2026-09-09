@@ -3,10 +3,10 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "DSSATTools: A Python package for crop modeling with DSSAT"
 authors:
-  - family-names: "Quintero Puentes"
-    given-names: "Diego A."
+  - family-names: "Quintero"
+    given-names: "Diego"
     orcid: "https://orcid.org/0000-0003-0336-1875"
-  - family-names: "Andrade"
+  - family-names: "Andrade-Rodriguez"
     given-names: "Manuel A."
   - family-names: "Mishra"
     given-names: "Vikalp"
